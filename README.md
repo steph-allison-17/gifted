@@ -2,7 +2,7 @@
 <h1 align="center"> 𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 𝟓.𝟎.𝟎 </h1>
 
 - Bot is Safe for Heroku so don't ask more questions
-
+- Added Antivv
 
 <details>
 <summary>NOTICE!!! (TAP TO READ)</summary>
