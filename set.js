@@ -1,7 +1,7 @@
 // Hi Buddy,
 // Edit Anything Here Except ones Indicated "DO NOT"...
 const fs = require('fs'), 
-      dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '/.env' }) : undefined,
+      dotenv = fs.existsSync('config.env') ? require('dotenv').config({ path: '.env' }) : undefined;
       convertToBool = (text, fault = 'true') => text === fault;
 
 global.caption = "*©𝟐𝟎𝟐5 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕊𝕋𝔼ℙℍ𝔼ℕ 𝔸𝕃𝕃𝕀𝕊𝕆ℕ*"; // Input Yours custom...(Maintain font for Flow)
