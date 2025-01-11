@@ -7,7 +7,7 @@ const fs = require('fs'),
 global.caption = "*©𝟐𝟎𝟐5 𝐆𝐈𝐅𝐓𝐄𝐃 𝐌𝐃 ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕊𝕋𝔼ℙℍ𝔼ℕ 𝔸𝕃𝕃𝕀𝕊𝕆ℕ*"; // Input Yours custom...(Maintain font for Flow)
 global.api = "https://api.giftedtech.web.id/api"; // DO NOT Change this...
 global.session = "https://pair.giftedtech.web.id"; // DO NOT Change this....
-global.footer = "*ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ*"; // Input Yours custom...(Maintain font for Flow)
+global.footer = "*ℙ𝕆𝕎𝔼ℝ𝔼𝔻 𝔹𝕐 𝕊𝕋𝔼ℙℍ𝔼ℕ 𝔸𝕃𝕃𝕀𝕊𝕆ℕ*"; // Input Yours custom...(Maintain font for Flow)
 global.myName = process.env.API_KEY;
 global.myDb = "https://giftedmd.giftedtech.web.id"; // DO NOT Change this...
 global.ytdl = "https://ytdl.giftedtech.web.id";
@@ -27,7 +27,7 @@ OWNER_NAME: process.env.OWNER_NAME || "𝐀𝐋𝐋𝐈𝐒𝐎𝐍", // Input Y
 PACK_AUTHOR: process.env.PACK_AUTHOR || "𝐀𝐋𝐋𝐈𝐒𝐎𝐍", // Added // Input Yours custom...
 PACK_NAME: process.env.PACK_NAME || "𝐆𝐈𝐅𝐓𝐄𝐃-𝐌𝐃💜", // Added // Input Yours custom...
 PREFIX: process.env.PREFIX || ".",
-API_KEY: process.env.API_KEY || "gifted-md", // Replace with your unlimited api key
+API_KEY: process.env.API_KEY || "gifted", // Replace with your unlimited api key
 ANTILINK: process.env.ANTILINK || "false", //  Enter true to kick automatically or delete to delete without kicking or warn to warn before kicking
 ANTICALL: process.env.ANTICALL || "true",
 ANTIBAD: process.env.ANTIBAD || "false",
