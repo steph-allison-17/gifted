@@ -14,6 +14,8 @@ RUN npm install && npm install -g qrcode-terminal pm2
 
 COPY . .
 
+COPY .env .
+
 EXPOSE 5000
 
 
